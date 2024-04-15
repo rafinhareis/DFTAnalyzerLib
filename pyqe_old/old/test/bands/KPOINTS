@@ -1,0 +1,13 @@
+k-points along high symmetry lines
+ 35              ! # intersectons
+Line-mode
+reciprocal
+  0.0000  0.0000  0.0000    ! G
+  0.5000  0.0000  0.5000    ! M
+
+  0.5000  0.0000  0.0000    ! M
+  0.3333  0.3333  0.0000    ! K
+
+  0.3333  0.3333  0.0000    ! K
+  0.0000  0.0000  0.0000    ! G
+

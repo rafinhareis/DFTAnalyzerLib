@@ -1,0 +1,6 @@
+&BANDS
+prefix='sb4te3',
+outdir='./temp',
+filband='bands.dat',
+lsym=.true.
+/

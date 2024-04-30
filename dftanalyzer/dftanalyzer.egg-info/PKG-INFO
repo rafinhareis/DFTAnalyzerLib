@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: dftanalyzer
+Version: 1.0.0
+Summary: Data visualization for DFT codes
+Home-page: UNKNOWN
+Author: Rafael Reis Barreto
+Author-email: rafinhareis17@gmail.com
+License: MIT License
+Keywords: dft,quantum espresso,siesta,vasp
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Visualizacao de dados dft
+

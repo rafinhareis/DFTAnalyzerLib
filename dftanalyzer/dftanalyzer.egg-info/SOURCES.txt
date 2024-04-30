@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+dftanalyzer/__init__.py
+dftanalyzer/base.py
+dftanalyzer/class_functions.py
+dftanalyzer/siesta_base.py
+dftanalyzer.egg-info/PKG-INFO
+dftanalyzer.egg-info/SOURCES.txt
+dftanalyzer.egg-info/dependency_links.txt
+dftanalyzer.egg-info/requires.txt
+dftanalyzer.egg-info/top_level.txt
